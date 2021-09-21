@@ -1,2 +1,2 @@
 # hello-world
-trying repositorys
+trying repositories
